@@ -1,1 +1,1 @@
-# VOICE-ASSISTANT-
+This is a voice assisstant based on chat gpt api
