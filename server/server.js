@@ -46,5 +46,5 @@ app.post("/", async (req, res) => {
 });
 
 app.listen(PORT, () =>
-  console.log("AI server started on http://localhost:5000")
+  console.log("AI server started on https://voice-assistant.onrender.com")
 );
