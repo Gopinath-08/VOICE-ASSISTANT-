@@ -1,8 +1,8 @@
 const userText = document.querySelector("#user-text");
 const response_text = document.querySelector("#response-text");
 const startBTN = document.querySelector("#start");
-const url = 'https://voice-assistant.onrender.com';
-const data = { prompt: 'Hello, AI!' };
+//const url = 'https://voice-assistant.onrender.com';
+//const data = { prompt: 'Hello, AI!' };
 
 const SpeechRecognition =
   window.SpeechRecognition || window.webkitSpeechRecognition;
